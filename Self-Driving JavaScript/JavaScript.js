@@ -1,1 +1,3 @@
-alert('This works!')
+function alerted() {
+  alert('This works!')
+}
